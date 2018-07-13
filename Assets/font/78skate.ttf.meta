@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8cbb9ddecedc1d6408e5e9aabee1cd6c
+timeCreated: 1521898379
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 78SKATE
+  fontNames:
+  - 78SKATE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
